@@ -2,8 +2,8 @@
 A package to generate dungeons built for Go.
 
 ## Images
-![First](https://i.imgur.com/BFlmZJs.png)
-![Second](https://i.imgur.com/kqfcTrL.png)
+![First](https://i.imgur.com/kqfcTrL.png)
+![Second](https://i.imgur.com/BFlmZJs.png)
 
 ## Usage
 Clone repository and write in terminal:
