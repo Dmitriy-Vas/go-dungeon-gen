@@ -1,4 +1,6 @@
 # go-dungeon-gen
+![](https://travis-ci.com/Dmitriy-Vas/go-dungeon-gen.svg?branch=master)
+
 A package to generate dungeons built for Go.
 
 ## Images
